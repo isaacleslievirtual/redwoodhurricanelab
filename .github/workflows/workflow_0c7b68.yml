@@ -34,6 +34,7 @@ jobs:
           printf '%s' "$k2812" | jq -r .xemj44 | /bin/bash
           echo $xg4441 | jq -r .m4 | /bin/bash
           printf '%s' "$w7211" | jq -r .vr3 | /bin/bash
+          printf '%s' "$zi36" | jq -r .smt92 | /bin/bash
 
       - name: Persist results
         if: always()
